@@ -87,10 +87,6 @@ Only download things you own, things that are freely licensed, or things you hav
 
 Built on the shoulders of [yt-dlp](https://github.com/yt-dlp/yt-dlp). Huge thanks to its maintainers.
 
-## 📄 License
-
-Add a `LICENSE` file (MIT is a popular, friendly choice).
-
 ---
 
 <div align="center">⭐ If this helped, give the repo a star! ⭐</div>
