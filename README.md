@@ -8,7 +8,7 @@
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-0078D6?style=for-the-badge)
 ![Powered by yt-dlp](https://img.shields.io/badge/powered%20by-yt--dlp-red?style=for-the-badge)
 ![Works on my machine](https://img.shields.io/badge/works%20on-my%20machine-brightgreen?style=for-the-badge)
-![Approved by](https://img.shields.io/badge/approved%20by-me%2C%20myself%20%26%20I-ff69b4?style=for-the-badge)
+![Approved by Sarthak](https://img.shields.io/badge/approved%20by-me%2C%20myself%20%26%20I-ff69b4?style=for-the-badge)
 ![Made with](https://img.shields.io/badge/made%20with-%E2%98%95%20%26%20bugs-orange?style=for-the-badge)
 
 </div>
